@@ -1,2 +1,3 @@
 # ChangeTheme
 android主题更换demo，无需重启app
+将assets文件夹下的skin文件夹复制到sd卡根目录
